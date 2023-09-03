@@ -1,0 +1,15 @@
+
+/* I fallowed this requirements:
+-	Create a conceptual diagram of the database (mandatory normalized)
+-	Creating tables
+-	Use examples of updating the table structure
+-	Populating the database
+-	Examples of updating the data
+-	Data selections using algebra and relational calculus operators
+-	Examples of applications included
+-	Example of using SQL functions
+-	Requests with GROUP BY and HAVING
+-	Demands on arborescent structures
+-	Management of other objects (view, index, sequences, cluster, partition tables, etc.)
+*/
+// Source: https://fisadisciplina.ase.ro/Default.aspx?IDD=87211&IDF=2&IDL=EN
